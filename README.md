@@ -1,4 +1,3 @@
-# Login Register Page
 
 ## Server side Set up<br>
 **Step 1.** Install nodemon if it does not exist:<br>
